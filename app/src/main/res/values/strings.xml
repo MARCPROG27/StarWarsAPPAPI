@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="luke_skywalker">Luke Skywalker</string>
+    <string name="films">Films</string>
+    <string name="full_name">NOMBRE COMPLETO</string>
+    <string name="height">ALTURA</string>
+    <string name="homeworld">HOMEWORLD</string>
+    <string name="hair_color">COLOR DE CABELLO</string>
+    <string name="eye_color">COLOR DE OJO</string>
+    <string name="birth_year">AÑO DE NACIMIENTO</string>
+    <string name="skin_color">COLOR DE PIEL</string>
+    <string name="mass">PESO</string>
+    <string name="gender">GENERO</string>
+</resources>
